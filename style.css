@@ -7,6 +7,9 @@ body {
   margin: 0 auto;
   font-family: "Open Sans", sans-serif;
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  
 }
 #hero {
   width: 630px;
@@ -56,5 +59,4 @@ footer a + a {
 
 #wave {
   width: 100%;
-  position: relative;
 }
